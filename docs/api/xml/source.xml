@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/widgetextensions/trunk">
+    <file name="_config.php" size="392" time="2015-03-14T10:22:14+13:00" unixtime="1426281734" sha1="0bb4a1c994b65000e0d6a0b1a5831c57b463f59a" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <file name="WidgetAreaEditorExtended.php" size="1481" time="2015-03-14T10:22:14+13:00" unixtime="1426281734" sha1="4fe3ad6693f9f56374f81e35c45a6a7c2b292e07" xml="tokens/code/WidgetAreaEditorExtended.php.xml"/>
+      <file name="WidgetAreaCustom.php" size="187" time="2015-03-14T10:22:14+13:00" unixtime="1426281734" sha1="378fdf8d1c067a8c58d1a021357f29c04bbd8e45" xml="tokens/code/WidgetAreaCustom.php.xml"/>
+    </dir>
+  </dir>
+</source>

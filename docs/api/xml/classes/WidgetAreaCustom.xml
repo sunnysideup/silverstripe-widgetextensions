@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="WidgetAreaCustom" namespace="" name="WidgetAreaCustom" abstract="false" final="false" start="3" end="13">
+  <file path="/var/www/_modules/widgetextensions/trunk/docs/en/phpdox/../../../code" file="WidgetAreaCustom.php" realpath="/var/www/_modules/widgetextensions/trunk/code/WidgetAreaCustom.php" size="187" time="2015-03-14T10:22:14+13:00" unixtime="1426281734" sha1="378fdf8d1c067a8c58d1a021357f29c04bbd8e45" relative="code/WidgetAreaCustom.php"/>
+  <extends full="WidgetArea" namespace="" name="WidgetArea"/>
+  <member name="has_one" type="array" visibility="public" line="5"/>
+  <method name="forTemplate" start="9" end="11" abstract="false" final="false" static="false" visibility="public"/>
+</class>

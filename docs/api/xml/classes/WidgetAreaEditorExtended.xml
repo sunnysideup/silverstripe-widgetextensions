@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="WidgetAreaEditorExtended" namespace="" name="WidgetAreaEditorExtended" abstract="false" final="false" start="8" end="50">
+  <file path="/var/www/_modules/widgetextensions/trunk/docs/en/phpdox/../../../code" file="WidgetAreaEditorExtended.php" realpath="/var/www/_modules/widgetextensions/trunk/code/WidgetAreaEditorExtended.php" size="1481" time="2015-03-14T10:22:14+13:00" unixtime="1426281734" sha1="4fe3ad6693f9f56374f81e35c45a6a7c2b292e07" relative="code/WidgetAreaEditorExtended.php"/>
+  <docblock>
+    <description compact="Get more out of your WidgetAreaEditor"/>
+    <package value="cms"/>
+    <subpackage value="content"/>
+    <author value="nicolaas [at] sunnysideup.co.nz"/>
+  </docblock>
+  <extends full="WidgetAreaEditor" namespace="" name="WidgetAreaEditor"/>
+  <member name="availableWidgets" type="array" visibility="protected" line="10"/>
+  <member name="blockedWidgets" type="array" visibility="protected" line="12"/>
+  <method name="addToAvailableWidgets" start="14" end="17" abstract="false" final="false" static="false" visibility="public">
+    <parameter name="array" byreference="false" type="{unknown}"/>
+  </method>
+  <method name="blockFromAvailableWidgets" start="19" end="22" abstract="false" final="false" static="false" visibility="public">
+    <parameter name="array" byreference="false" type="{unknown}"/>
+  </method>
+  <method name="AvailableWidgets" start="24" end="48" abstract="false" final="false" static="false" visibility="public"/>
+</class>
