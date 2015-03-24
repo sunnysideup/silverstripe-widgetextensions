@@ -24,7 +24,7 @@ class WidgetAreaEditorExtended extends WidgetAreaEditor {
 	function AvailableWidgets() {
 		$classes = ClassInfo::subclassesFor('Widget');
 		array_shift($classes);
-		$widgets= new DataObjectSet();
+		$widgets= new ArrayList();
 		$hasSpecificallyAddedWidgets = count($this->availableWidgets) && is_array($this->availableWidgets);
 		$hasSpecificallyBlockedWidgets = count($this->blockedWidgets) && is_array($this->blockedWidgets);
 

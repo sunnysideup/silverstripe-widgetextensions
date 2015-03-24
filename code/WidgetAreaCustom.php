@@ -2,7 +2,7 @@
 
 class WidgetAreaCustom extends WidgetArea {
 
-	static $has_one = array(
+	private static $has_one = array(
 		"Page" => "Page"
 	);
 
