@@ -12,12 +12,12 @@ class WidgetAreaEditorExtended extends WidgetAreaEditor {
 	protected $blockedWidgets = array();
 
 	function addToAvailableWidgets($array) {
-		if(!is_array($array)) {user_error("first and only arugment for WidgetAreaEditor::addToAvailableWidgets must be an array", E_USER_ERROR);}
+		if(!is_array($array)) {user_error("first and only argument for WidgetAreaEditor::addToAvailableWidgets must be an array", E_USER_ERROR);}
 		$this->availableWidgets = $array;
 	}
 
 	function blockFromAvailableWidgets($array) {
-	if(!is_array($array)) {user_error("first and only arugment for WidgetAreaEditor::blockFromAvailableWidgets must be an array", E_USER_ERROR);}
+	if(!is_array($array)) {user_error("first and only argument for WidgetAreaEditor::blockFromAvailableWidgets must be an array", E_USER_ERROR);}
 		$this->blockedWidgets = $array;
 	}
 
@@ -49,4 +49,3 @@ class WidgetAreaEditorExtended extends WidgetAreaEditor {
 
 }
 
-?>
