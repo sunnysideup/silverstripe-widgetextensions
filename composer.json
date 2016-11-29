@@ -3,8 +3,10 @@
     "type": "silverstripe-module",
     "description": "add widgets to your site - not just your silverstripe blog",
     "keywords": [
-        "widgetextensions",
-        "silverstripe"
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "widgetextensions"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
