@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/widgetextensions/trunk">
-  <namespace name="">
-    <class name="WidgetAreaEditorExtended" src="code/WidgetAreaEditorExtended.php" description="Get more out of your WidgetAreaEditor" xml="classes/WidgetAreaEditorExtended.xml"/>
-    <class name="WidgetAreaCustom" src="code/WidgetAreaCustom.php" xml="classes/WidgetAreaCustom.xml"/>
-  </namespace>
-</index>
